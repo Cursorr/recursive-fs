@@ -95,9 +95,9 @@ print(filemanager.getAllData());
  *       'extension': 'py',
  *       'size': 1529
  *    },
- *    'index': {
- *       'path': 'E:\\WindowsData\\Desktop\\recursive-fs\\index.py',
- *       'extension': 'py',
+ *    'data': {
+ *       'path': 'E:\\WindowsData\\Desktop\\recursive-fs\\data.json',
+ *       'extension': 'json',
  *       'size': 234
  *     }
  * }
