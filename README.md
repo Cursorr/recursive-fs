@@ -103,3 +103,7 @@ print(filemanager.getAllData());
  * }
  */
 ```
+
+# Credits
+
+Recursive-fs was done in TypeScript by LeadCodeDev `github.com/LeadcodeDev/recursive-fs` and i just reporoduced it in Python. Thanks for him for letting me do it and get his ReadME file base.
