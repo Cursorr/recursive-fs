@@ -34,7 +34,7 @@ extentions = ["py", "json"]
 
 filemanager = FileManager()
 
-files = filemanager.fetch(directory, extentions) // return the list of retrived files Objects (fs_recursive.File) 
+files = filemanager.fetch(directory, extentions)  #return the list of retrived files Objects (fs_recursive.File) 
 
 print(filemanager.getFileData(files[0]))
 
