@@ -77,6 +77,7 @@ You can sort results by their extension
 
 ```py
 from fs_recursive.file_manager import FileManager
+import os
 
 directory = os.getcwd()
 extentions = ["py", "json"]
