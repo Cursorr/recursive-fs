@@ -106,6 +106,6 @@ print(filemanager.getAllData());
 ```
 
 # Credits
-Recursive-fs` is a module for [python](https://www.python.org) inspired by the [package](https://github.com/LeadcodeDev/recursive-fs) developed in typescript by LeadcodeDev.
+`Recursive-fs` is a module for [python](https://www.python.org) inspired by the [package](https://github.com/LeadcodeDev/recursive-fs) developed in typescript by LeadcodeDev.
 
 Thanks for him for letting me do it and get his ReadME file base.
